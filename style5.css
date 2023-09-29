@@ -1,0 +1,84 @@
+body 
+{
+    margin: 0px;
+    padding: 0px;
+    border: 6px solid orange;
+    border-radius: 25px;
+    height: 800px;
+    width: 750px;
+    padding:20px ;
+}
+.top
+{
+    height: 200px;
+    padding: 20px;
+}
+.left
+{
+    width: 35%;
+    float: left;
+}
+.right{
+    width: 62%;
+    float: right;
+} 
+#name
+{
+    padding: 5px;
+    border: 1px solid orange;
+    border-radius: 4px;
+}
+#email
+{
+    padding: 5px;
+    border: 1px solid orange;
+    border-radius: 4px;
+    width: 300px;
+}
+#area
+{
+    padding: 5px;
+    border: 1px solid orange;
+    border-radius: 4px;
+    width: 100px;
+}
+#phone
+{
+    padding: 5px;
+    border: 1px solid orange;
+    border-radius: 4px;
+}
+#company
+{
+    padding: 5px;
+    border: 1px solid orange;
+    border-radius: 4px;
+}
+#address
+{
+    padding: 5px;
+    border: 1px solid orange;
+    border-radius: 4px;
+    width: 350px;
+}
+#city
+{
+    padding: 5px;
+    border: 1px solid orange;
+    border-radius: 4px;
+}
+#website
+{
+    padding: 5px;
+    border: 1px solid orange;
+    border-radius: 4px;
+}
+#submit
+{
+    width: 250px;
+    background-color: orange;
+    height: 40px;
+    align-items: center;
+
+
+}
